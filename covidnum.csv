@@ -1,4 +1,4 @@
-Province/State,Country/Region,Lat,Long,Date,Confirmed,Deaths,Recovered,item
+nombre,Country/Region,Lat,Long,Date,value,Deaths,Recovered,item
 Anhui,China,31.8257,117.2264,1/22/2020,1,0,0,1
 Anhui,China,31.8257,117.2264,1/23/2020,9,0,0,2
 Anhui,China,31.8257,117.2264,1/24/2020,15,0,0,3
